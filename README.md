@@ -1,4 +1,4 @@
-# AnaliseSQL-CancerMama_DataSet
+# AnaliseSQL-CancerMama-DataSet
 
 Aplicando técnicas de:
 - Codificação (label encoding e one-hot-encoding)
